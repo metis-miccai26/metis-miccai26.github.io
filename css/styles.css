@@ -1126,7 +1126,6 @@ ul { list-style: none; }
   .section-header h2 { font-size: 2rem; }
   .hero h1 { font-size: 2.2rem; }
   .hero-subtitle { font-size: 1rem; }
-  .hero-logo { width: 150px; height: 150px; }
 
   .nav-links {
     position: fixed;
@@ -1168,7 +1167,6 @@ ul { list-style: none; }
 
 @media (max-width: 480px) {
   .hero h1 { font-size: 1.75rem; }
-  .hero-logo { width: 120px; height: 120px; }
   .hero-cta-group { flex-direction: column; align-items: center; }
   .organizers-grid { grid-template-columns: 1fr; max-width: 280px; margin: 0 auto; }
   .about-stats { grid-template-columns: 1fr; gap: 1rem; }
