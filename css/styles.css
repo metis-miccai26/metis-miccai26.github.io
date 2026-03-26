@@ -1146,7 +1146,7 @@ ul { list-style: none; }
   .hamburger { display: flex; }
 
   /* Disable About image sliding/floating on mobile */
-  .about-image[data-aos] {
+  .about-image.reveal {
     transform: none !important;
     opacity: 1 !important;
     transition: none !important;
