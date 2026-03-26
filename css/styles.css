@@ -1145,6 +1145,14 @@ ul { list-style: none; }
   .nav-links a { font-size: 1.1rem; }
   .hamburger { display: flex; }
 
+  /* Disable About image sliding/floating on mobile */
+  .about-image[data-aos] {
+    transform: none !important;
+    opacity: 1 !important;
+    transition: none !important;
+  }
+  .floating-img { animation: none !important; }
+
   .program-grid { grid-template-columns: 1fr; }
   .organizers-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
   .awards-grid { grid-template-columns: repeat(2, 1fr); }
