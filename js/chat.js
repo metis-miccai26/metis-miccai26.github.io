@@ -32,14 +32,10 @@ The workshop focuses on evaluation, translation, and responsible deployment of A
 3. **Track 3: MIUA-to-MICCAI Collaborative Outcomes** — Showcasing outcomes from collaborations initiated at MIUA 2026.
 
 ## Important Dates
-- Abstracts & EoI Deadline: 30th April 2026
-- Full Papers Deadline: 18th May 2026
-- Acceptances: 1st June 2026
-- Camera-ready: 15th June 2026
-- Workshop Dates: 20th–22nd July 2026
+All dates are currently TBD (To Be Determined). Please email the organizers.
 
 ## Review Process
-Submissions undergo double-blind peer review. Full Papers and Clinician Abstracts are submitted via the CMT Portal. AI System abstracts and Clinician Expression of Interest (EoI) are submitted via Google Forms. Accepted papers will be published in MICCAI Springer LNCS. Expected submissions: 25–35. Expected attendees: 45–50.
+Submissions undergo double-blind peer review using OpenReview. Accepted papers will be published in MICCAI Springer LNCS. Expected submissions: 25–35. Expected attendees: 45–50.
 
 ## Organizers
 - **Kathleen Curran** — General Chair MIUA 2026, University College Dublin, Ireland
