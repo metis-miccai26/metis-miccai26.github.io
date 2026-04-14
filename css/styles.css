@@ -246,11 +246,10 @@ ul { list-style: none; }
    ============================================================ */
 .hero {
   min-height: 100vh;
-  padding-top: calc(var(--nav-height) + 2rem);
+  padding-top: 120px;
   padding-bottom: 3rem;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
   position: relative;
   overflow: hidden;
   background: linear-gradient(135deg, var(--blue-900) 0%, var(--blue-700) 40%, var(--blue-800) 70%, #1a2744 100%);
@@ -305,6 +304,7 @@ ul { list-style: none; }
   text-align: center;
   padding: 2rem var(--container-px);
   max-width: 900px;
+  margin: auto;
 }
 .hero-logo {
   width: 100%;
