@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
       item.style.transitionDelay = `${i * delayMs}ms`;
     });
   };
-  addStagger('.track-card', 150);
+  addStagger('.clinical-col', 150);
   addStagger('.organizer-card', 80);
   addStagger('.award-card', 100);
   addStagger('.program-item', 80);

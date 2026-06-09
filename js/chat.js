@@ -24,19 +24,18 @@ MÉTIS stands for "Multidisciplinary Evaluation & Translation in Imaging & CAI S
 "Metis" is the ancient Greek goddess of wisdom, practical intelligence, and strategic thinking — symbolising the translation of MICCAI methods into the clinic.
 
 ## Workshop Focus
-The workshop focuses on evaluation, translation, and responsible deployment of AI in real-world clinical workflows. It aims to unite clinical and computational communities to develop shared standards.
+The workshop focuses on evaluation, translation, and responsible deployment of AI in real-world clinical workflows. The first edition focuses on a **Clinical Matchmaking & Mentorship** program to pair clinicians working with medical imaging who have clinical questions or dataset challenges with AI experts and researchers from the MICCAI community.
 
-## Submission Tracks
-1. **Track 1: End-to-End AI Imaging Systems** — Fully implemented AI imaging pipelines.
-2. **Track 2: Translational Evaluation, Metrics & Regulatory Perspectives** — Innovative evaluation methodologies and position papers on evaluation and regulatory compliance.
-3. **Track 3: MIUA-to-MICCAI Collaborative Outcomes** — Showcasing outcomes from collaborations initiated at MIUA 2026.
-4. **Call for Clinical Proposals** — Clinicians can submit a 1-page proposal and CV to partner with computational scientists. Submission form (Clinician EoI Form): https://forms.gle/kquChVyXuQWNpMJ28.
+## Call for Proposals
+Clinicians can submit a 1-page proposal (outlining their clinical bottleneck, data description, modality, and expected collaboration value) and a short CV via the **Clinician EoI Form** to partner with computational scientists. 
+- Submission Form Link: https://forms.gle/kquChVyXuQWNpMJ28
+- The first edition is a non-publishing track focused purely on building active collaborations and study mentorship.
 
 ## Important Dates
-All dates are currently TBD (To Be Determined). Please email the organizers.
+All dates are currently TBD (To Be Determined). Proposal Submission and Matchmaking Notification are expected around July 2026. Please check the website or email the organizers for updates.
 
-## Review Process
-Submissions undergo double-blind peer review using OpenReview. Accepted papers will be published in MICCAI Springer LNCS. Expected submissions: 25–35. Expected attendees: 45–50.
+## Workshop Activities
+The workshop includes opening keynotes, proposal pitches from selected clinicians, panel discussions on building successful AI-clinical partnerships, interactive matchmaking breakout sessions, and a year-long mentorship program kickoff.
 
 ## Organizers
 - **Kathleen Curran** — General Chair MIUA 2026, University College Dublin, Ireland
