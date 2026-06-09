@@ -8,7 +8,7 @@
 
 ## About
 
-The MÉTIS Workshop at MICCAI 2026 (Abu Dhabi, UAE) focuses on evaluation, translation, and responsible deployment of AI in real-world clinical workflows.
+The MÉTIS Workshop at MICCAI 2026 (Strasbourg, France) focuses on evaluation, translation, and responsible deployment of AI in real-world clinical workflows.
 
 ## Local Development
 

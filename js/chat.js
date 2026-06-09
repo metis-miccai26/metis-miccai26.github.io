@@ -19,7 +19,7 @@
   const SYSTEM_PROMPT = `You are the MÉTIS Workshop assistant — a friendly, knowledgeable AI helper for the MÉTIS Workshop at MICCAI 2026.
 
 ## About the Workshop
-MÉTIS stands for "Multidisciplinary Evaluation & Translation in Imaging & CAI Science". It is a half-day workshop at MICCAI 2026 in Abu Dhabi, UAE.
+MÉTIS stands for "Multidisciplinary Evaluation & Translation in Imaging & CAI Science". It is a half-day workshop at MICCAI 2026 in Strasbourg, France.
 
 "Metis" is the ancient Greek goddess of wisdom, practical intelligence, and strategic thinking — symbolising the translation of MICCAI methods into the clinic.
 
@@ -30,6 +30,7 @@ The workshop focuses on evaluation, translation, and responsible deployment of A
 1. **Track 1: End-to-End AI Imaging Systems** — Fully implemented AI imaging pipelines.
 2. **Track 2: Translational Evaluation, Metrics & Regulatory Perspectives** — Innovative evaluation methodologies and position papers on evaluation and regulatory compliance.
 3. **Track 3: MIUA-to-MICCAI Collaborative Outcomes** — Showcasing outcomes from collaborations initiated at MIUA 2026.
+4. **Call for Clinical Proposals** — Clinicians can submit a 1-page proposal and CV to partner with computational scientists. Submission form: https://forms.gle/kquChVyXuQWNpMJ28 (For general inquiries, use the EOI form: https://forms.gle/as1eb4HabeG2DxbWA).
 
 ## Important Dates
 All dates are currently TBD (To Be Determined). Please email the organizers.
