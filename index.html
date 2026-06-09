@@ -11,9 +11,12 @@
   <meta property="og:image" content="assets/metis.jpg">
   <meta property="og:type" content="website">
   <link rel="icon" href="assets/metis-logo.jpg" type="image/jpeg">
-  <link rel="stylesheet" href="css/styles.css?v=8">
+  <link rel="stylesheet" href="css/styles.css?v=10">
 </head>
 <body>
+
+  <!-- ============ SCROLL PROGRESS BAR ============ -->
+  <div class="scroll-progress" id="scrollProgress"></div>
 
   <!-- ============ NAVIGATION ============ -->
   <nav class="navbar" id="navbar">
@@ -38,7 +41,10 @@
 
   <!-- ============ HERO ============ -->
   <section class="hero" id="hero">
+    <canvas class="hero-canvas" id="heroCanvas"></canvas>
     <div class="hero-particles" id="heroParticles"></div>
+    <div class="blob blob--1 parallax-layer" data-speed="0.3"></div>
+    <div class="blob blob--2 parallax-layer" data-speed="-0.2"></div>
     <div class="hero-content">
       <img src="assets/metis-main.jpg" alt="MÉTIS Workshop Logo" class="hero-logo">
 
@@ -46,8 +52,6 @@
         <img src="assets/miccai2026-logo-france.png" alt="MICCAI 2026">
         <span>MICCAI 2026 &middot; Strasbourg, France</span>
       </div>
-
-
 
       <div class="hero-cta-group">
         <a href="#proposals" class="btn btn-primary">
@@ -65,19 +69,26 @@
     </div>
   </section>
 
+  <!-- ============ WAVE: HERO → ABOUT ============ -->
+  <div class="wave-divider wave-divider--hero-to-about">
+    <svg viewBox="0 0 1440 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,60 C360,120 720,0 1080,60 C1260,90 1380,80 1440,60 L1440,120 L0,120 Z" fill="#ffffff"/>
+    </svg>
+  </div>
+
   <!-- ============ ABOUT ============ -->
   <section class="about section-padding" id="about">
     <div class="container">
-      <div class="section-header reveal">
+      <div class="section-header reveal" data-reveal="scale">
         <h2>About the Workshop</h2>
         <p>Bridging the gap between research innovation and clinical impact in medical imaging AI</p>
       </div>
 
       <div class="about-grid">
-        <div class="about-image reveal">
+        <div class="about-image reveal" data-reveal="left">
           <img src="assets/metis-main.jpg" alt="MÉTIS Workshop — Linking Clinical & Computational Communities">
         </div>
-        <div class="about-text reveal">
+        <div class="about-text reveal" data-reveal="right">
           <h3>Why MÉTIS?</h3>
           <p>
             Rapid advances in medical imaging AI and computer-assisted intervention (CAI) have produced highly accurate algorithms, yet their translation into clinical practice remains limited. A major barrier is the gap between technical evaluation in research and the requirements of clinical validation, regulatory approval, and deployment.
@@ -96,15 +107,15 @@
           </div>
 
           <div class="about-stats">
-            <div class="stat-item">
+            <div class="stat-item reveal">
               <div class="stat-number">🇫🇷 Strasbourg</div>
               <div class="stat-label">Venue</div>
             </div>
-            <div class="stat-item">
+            <div class="stat-item reveal">
               <div class="stat-number">Half Day</div>
               <div class="stat-label">Duration</div>
             </div>
-            <div class="stat-item">
+            <div class="stat-item reveal">
               <div class="stat-number">Matchmaking</div>
               <div class="stat-label">Mentorship Program</div>
             </div>
@@ -114,10 +125,17 @@
     </div>
   </section>
 
+  <!-- ============ WAVE: ABOUT → PROPOSALS ============ -->
+  <div class="wave-divider wave-divider--about-to-proposals">
+    <svg viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,40 C240,100 480,0 720,50 C960,100 1200,20 1440,60 L1440,100 L0,100 Z" fill="var(--blue-50, #F0F5FA)"/>
+    </svg>
+  </div>
+
   <!-- ============ CALL FOR PROPOSALS ============ -->
   <section class="tracks section-padding" id="proposals">
     <div class="container">
-      <div class="section-header reveal">
+      <div class="section-header reveal" data-reveal="scale">
         <h2>Call for Proposals</h2>
         <p>Connecting clinical needs with medical imaging AI expertise from the MICCAI community</p>
       </div>
@@ -130,14 +148,14 @@
         </p>
         
         <div class="clinical-grid">
-          <div class="clinical-col">
+          <div class="clinical-col reveal" data-reveal="left">
             <h4>📋 Submission Requirements</h4>
             <ul>
               <li><strong>Clinical Proposal (1 page):</strong> Clearly outline the clinical bottleneck/diagnostic question, data description (modalities, case numbers, IRB/ethics status), and expected collaborative value.</li>
               <li><strong>Short CV:</strong> Brief curriculum vitae summarizing your clinical background and research interests.</li>
             </ul>
           </div>
-          <div class="clinical-col">
+          <div class="clinical-col reveal" data-reveal="right">
             <h4>🎁 Outcomes &amp; Benefits</h4>
             <ul>
               <li><strong>Matchmaking:</strong> Direct matching and pairing with leading AI researchers and computational scientists.</li>
@@ -161,10 +179,17 @@
     </div>
   </section>
 
+  <!-- ============ WAVE: PROPOSALS → DATES ============ -->
+  <div class="wave-divider wave-divider--to-dark">
+    <svg viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,30 C360,90 720,10 1080,50 C1260,70 1380,40 1440,30 L1440,100 L0,100 Z" fill="#070d19"/>
+    </svg>
+  </div>
+
   <!-- ============ IMPORTANT DATES ============ -->
   <section class="dates section-padding" id="dates">
     <div class="container">
-      <div class="section-header reveal">
+      <div class="section-header reveal" data-reveal="scale">
         <h2>Important Dates</h2>
         <p>Key milestones for the MÉTIS workshop at MICCAI 2026</p>
       </div>
@@ -189,10 +214,17 @@
     </div>
   </section>
 
+  <!-- ============ WAVE: DATES → PROGRAM ============ -->
+  <div class="wave-divider wave-divider--dark-to-light">
+    <svg viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,50 C240,10 480,90 720,40 C960,0 1200,80 1440,50 L1440,100 L0,100 Z" fill="#ffffff"/>
+    </svg>
+  </div>
+
   <!-- ============ PROGRAM ============ -->
   <section class="program section-padding" id="program">
     <div class="container">
-      <div class="section-header reveal">
+      <div class="section-header reveal" data-reveal="scale">
         <h2>Preliminary Program</h2>
         <p>A half-day workshop packed with presentations, panels, and collaborative sessions</p>
       </div>
@@ -244,10 +276,17 @@
     </div>
   </section>
 
+  <!-- ============ WAVE: PROGRAM → AWARDS ============ -->
+  <div class="wave-divider wave-divider--to-dark-2">
+    <svg viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,60 C360,10 720,90 1080,40 C1260,20 1380,50 1440,60 L1440,100 L0,100 Z" fill="#0d1a2e"/>
+    </svg>
+  </div>
+
   <!-- ============ AWARDS ============ -->
   <section class="awards section-padding" id="awards">
     <div class="container">
-      <div class="section-header reveal">
+      <div class="section-header reveal" data-reveal="scale">
         <h2>Recognition &amp; Awards</h2>
         <p>Top clinical proposals and collaborations will be recognized based on key impact criteria</p>
       </div>
@@ -277,10 +316,17 @@
     </div>
   </section>
 
+  <!-- ============ WAVE: AWARDS → ORGANIZERS ============ -->
+  <div class="wave-divider wave-divider--dark-to-light-2">
+    <svg viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,40 C360,90 720,20 1080,60 C1260,80 1380,30 1440,40 L1440,100 L0,100 Z" fill="var(--blue-50, #F0F5FA)"/>
+    </svg>
+  </div>
+
   <!-- ============ ORGANIZERS ============ -->
   <section class="organizers section-padding" id="organizers">
     <div class="container">
-      <div class="section-header reveal">
+      <div class="section-header reveal" data-reveal="scale">
         <h2>Organizing Committee</h2>
         <p>An interdisciplinary team spanning clinical imaging, computational AI, and translational research</p>
       </div>
@@ -438,7 +484,7 @@
   </div>
 
   <!-- ============ SCRIPTS ============ -->
-  <script src="js/main.js"></script>
+  <script src="js/main.js?v=10"></script>
   <script src="js/chat.js?v=5"></script>
 </body>
 </html>
