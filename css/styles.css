@@ -399,6 +399,17 @@ ul { list-style: none; }
   color: var(--color-accent);
   transform: translateY(-2px);
 }
+.btn-outline-accent {
+  background: transparent;
+  color: var(--color-accent);
+  border: 2px solid var(--color-accent);
+}
+.btn-outline-accent:hover {
+  background: var(--color-accent);
+  color: var(--white);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(232,122,46,.35);
+}
 
 .hero-scroll-indicator {
   position: absolute;
