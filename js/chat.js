@@ -32,7 +32,7 @@ Clinicians can submit a 1-page proposal (outlining their clinical bottleneck, da
 - The first edition is a non-publishing track focused purely on building active collaborations and study mentorship.
 
 ## Important Dates
-All dates are currently TBD (To Be Determined). Proposal Submission and Matchmaking Notification are expected around July 2026. Please check the website or email the organizers for updates.
+Proposal Submission and Matchmaking Notification are expected around July 2026. The workshop will be held as a half-day event on September 27, 2026, in Strasbourg, France.
 
 ## Workshop Activities
 The workshop includes opening keynotes, proposal pitches from selected clinicians, panel discussions on building successful AI-clinical partnerships, interactive matchmaking breakout sessions, and a year-long mentorship program kickoff.
