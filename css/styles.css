@@ -611,6 +611,102 @@ ul { list-style: none; }
 }
 
 /* ============================================================
+   CLINICAL PROPOSALS & MATCHMAKING
+   ============================================================ */
+.clinical-box {
+  margin-top: 3rem;
+  background: var(--white);
+  border: 1px solid rgba(27, 58, 92, 0.1);
+  border-left: 5px solid var(--blue-500);
+  border-radius: var(--radius-md);
+  padding: 2.5rem;
+  box-shadow: var(--shadow-sm);
+}
+.clinical-box h3 {
+  font-family: var(--font-heading);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--color-primary-dark);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.clinical-box p {
+  color: var(--gray-700);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+.clinical-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 768px) {
+  .clinical-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.clinical-col h4 {
+  color: var(--color-primary-dark);
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+.clinical-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.clinical-col li {
+  font-size: 0.95rem;
+  color: var(--gray-700);
+  padding-left: 1.25rem;
+  position: relative;
+}
+.clinical-col li::before {
+  content: '•';
+  color: var(--color-accent);
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+}
+.clinical-action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(27, 58, 92, 0.08);
+}
+.clinical-action-text {
+  flex: 1;
+  min-width: 250px;
+  font-size: 0.9rem;
+  color: var(--gray-600);
+}
+.clinical-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-accent);
+  color: var(--white);
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background var(--transition);
+}
+.clinical-action-btn:hover {
+  background: var(--color-accent-dark);
+}
+
+/* ============================================================
    IMPORTANT DATES
    ============================================================ */
 .dates {
