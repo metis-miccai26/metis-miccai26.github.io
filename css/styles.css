@@ -1031,6 +1031,42 @@ ul { list-style: none; }
   color: var(--gray-500);
   font-size: .9rem;
 }
+.program-intro {
+  max-width: 800px;
+  margin: 0 auto 3rem auto;
+  text-align: center;
+  color: var(--gray-500);
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+.program-time {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--color-accent);
+  margin-bottom: 0.35rem;
+  display: flex;
+  align-items: center;
+}
+.speaker-info {
+  margin-top: 0.6rem !important;
+  line-height: 1.4;
+}
+.affiliation {
+  font-size: 0.85rem;
+  color: var(--gray-500);
+  font-style: italic;
+  display: inline-block;
+  margin-top: 0.2rem;
+}
+.program-note {
+  text-align: center;
+  margin-top: 2.5rem;
+  font-size: 0.85rem;
+  color: var(--gray-500);
+  font-style: italic;
+  font-family: var(--font-body);
+}
 
 /* ============================================================
    AWARDS — Glassmorphism on dark

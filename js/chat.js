@@ -36,17 +36,15 @@ The programme supports clinical practitioners and computational researchers. Cli
 - Workshop Date: September 27, 2026 (Strasbourg, France).
 
 ## Preliminary Program (2-Hour Timeline)
-- Opening Keynote & MÉTIS Vision (15 mins)
-- Clinical Proposal Pitches (40 mins)
-- Panel Discussion: Clinician-AI Partnerships (25 mins)
-- Matchmaking & Speed Networking (25 mins)
-- Mentorship Kickoff (10 mins)
-- Closing Plenary (5 mins)
+- 08:00 - 08:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
+- 08:10 - 08:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Tessa S Cook (Radiology & Imaging Informatics - University of Pennsylvania)
+- 08:30 - 09:45 (75 mins): Oral presentations of accepted papers (innovative evaluation, clinical metrics, regulatory pathways, real-world deployment challenges)
+- 09:45 - 10:00 (15 mins): Concluding Remarks & Group Formation for structured networking during the poster session
+Note: The exact times are based on a tentative morning slot allocation and will adjust according to final MICCAI scheduling.
 
 ## Sponsors & Partners
 - University College Dublin (UCD)
 - Research Ireland
-- Medical Image Understanding & Analysis (MIUA)
 
 ## Organizers
 - Kathleen Curran — General Chair MIUA 2026, University College Dublin, Ireland
