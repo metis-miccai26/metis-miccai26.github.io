@@ -1750,33 +1750,34 @@ ul { list-style: none; }
   box-shadow: 0 10px 30px rgba(27,58,92,.08);
   border-color: rgba(27, 58, 92, 0.12);
 }
-.sponsor-logo-placeholder {
-  font-family: var(--font-heading);
-  font-weight: 800;
-  font-size: 1.7rem;
-  height: 50px;
+.sponsor-logo-wrapper {
+  height: 70px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 0.8rem;
-  letter-spacing: -0.5px;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  filter: grayscale(1) opacity(0.5);
-  transition: filter var(--transition);
+  width: 100%;
+  margin-bottom: 1rem;
 }
-.sponsor-card:hover .sponsor-logo-placeholder {
+.sponsor-logo {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  filter: grayscale(1) opacity(0.65);
+  transition: filter var(--transition), transform var(--transition);
+  color: var(--color-primary-dark);
+}
+.sponsor-card:hover .sponsor-logo {
   filter: grayscale(0) opacity(1);
+  transform: scale(1.05);
 }
-.sponsor-logo-placeholder.ucd {
-  background-image: linear-gradient(135deg, #004B87, #0085CA);
+.sponsor-logo.ri {
+  max-height: 50px;
 }
-.sponsor-logo-placeholder.ri {
-  background-image: linear-gradient(135deg, #00A86B, #008080);
+.sponsor-logo.ucd {
+  max-height: 65px;
 }
-.sponsor-logo-placeholder.miua {
-  background-image: linear-gradient(135deg, #E87A2E, #1B3A5C);
+.sponsor-logo.miua {
+  max-height: 55px;
 }
 .sponsor-name {
   font-size: 0.85rem;
