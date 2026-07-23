@@ -31,15 +31,15 @@ The programme supports clinical practitioners and computational researchers. Cli
 - The first edition is a non-publishing track focused purely on building active collaborations and study mentorship.
 
 ## Important Dates
-- Proposal Submission Deadline: Friday 10th July 2026.
-- Matchmaking & Selection Notification: Friday 31st July 2026.
+- Proposal Submission Deadline: Sunday, August 16, 2026.
+- Matchmaking & Selection Notification: Monday, August 31, 2026.
 - Workshop Date: September 27, 2026 (Strasbourg, France).
 
 ## Preliminary Program (2-Hour Timeline)
 - 08:00 - 08:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
-- 08:10 - 08:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Tessa S Cook (Radiology & Imaging Informatics - University of Pennsylvania)
-- 08:30 - 09:45 (75 mins): Oral presentations of accepted papers (innovative evaluation, clinical metrics, regulatory pathways, real-world deployment challenges)
-- 09:45 - 10:00 (15 mins): Concluding Remarks & Group Formation for structured networking during the poster session
+- 08:10 - 08:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap (Speaker: TBD, Attending MICCAI Speaker)
+- 08:30 - 09:45 (75 mins): Presentations & Round Table Discussions (combining accepted paper presentations via pre-recorded lightning videos/posters and structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
+- 09:45 - 10:00 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
 Note: The exact times are based on a tentative morning slot allocation and will adjust according to final MICCAI scheduling.
 
 ## Sponsors & Partners

@@ -1067,6 +1067,28 @@ ul { list-style: none; }
   font-style: italic;
   font-family: var(--font-body);
 }
+.program-subthemes {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-top: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.program-subthemes li {
+  font-size: 0.85rem;
+  color: var(--gray-500);
+  position: relative;
+  padding-left: 1.25rem;
+  line-height: 1.4;
+}
+.program-subthemes li::before {
+  content: "•";
+  position: absolute;
+  left: 0.25rem;
+  color: var(--color-accent);
+  font-weight: bold;
+}
 
 /* ============================================================
    AWARDS — Glassmorphism on dark
