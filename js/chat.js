@@ -38,7 +38,7 @@ The programme supports clinical practitioners and computational researchers. Cli
 
 ## Preliminary Program (2-Hour Timeline)
 - 12:00 - 12:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
-- 12:10 - 12:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap (Speaker: TBD)
+- 12:10 - 12:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Tessa S Cook (Radiology & Imaging Informatics - University of Pennsylvania)
 - 12:30 - 13:45 (75 mins): Presentations & Round Table Discussions (combining accepted paper presentations via videos/posters and structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
 - 13:45 - 14:00 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
 Note: The exact times are based on a tentative afternoon slot allocation and will adjust according to final MICCAI scheduling.
