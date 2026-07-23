@@ -36,7 +36,7 @@ The programme supports clinical practitioners and computational researchers. Cli
 - Workshop Date: September 27, 2026 (Strasbourg, France).
 - Note: All workshop deadlines are Anytime on Earth (AoE).
 
-## Preliminary Program (2-Hour Timeline)
+## Workshop Program (2-Hour Timeline)
 - 12:00 - 12:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
 - 12:10 - 12:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Tessa S Cook (Radiology & Imaging Informatics - University of Pennsylvania)
 - 12:30 - 13:45 (75 mins): Presentations & Round Table Discussions (combining accepted paper presentations via videos/posters and structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
