@@ -31,9 +31,10 @@ The programme supports clinical practitioners and computational researchers. Cli
 - The first edition is a non-publishing track focused purely on building active collaborations and study mentorship.
 
 ## Important Dates
-- Proposal Submission Deadline: Sunday, August 16, 2026.
-- Matchmaking & Selection Notification: Monday, August 31, 2026.
+- Proposal Submission Deadline: Sunday, August 16, 2026 (AoE).
+- Matchmaking & Selection Notification: Monday, August 31, 2026 (AoE).
 - Workshop Date: September 27, 2026 (Strasbourg, France).
+- Note: All workshop deadlines are Anytime on Earth (AoE).
 
 ## Preliminary Program (2-Hour Timeline)
 - 12:00 - 12:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
