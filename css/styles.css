@@ -876,6 +876,22 @@ ul { list-style: none; }
   transform: translateY(-2px);
   box-shadow: 0 8px 25px rgba(232,122,46,.45);
 }
+.clinical-action-buttons {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.clinical-action-btn--outline {
+  background: transparent;
+  color: var(--color-accent);
+  border: 2px solid var(--color-accent);
+  box-shadow: none;
+}
+.clinical-action-btn--outline:hover {
+  background: var(--color-accent);
+  color: var(--white);
+  box-shadow: 0 4px 15px rgba(232,122,46,.2);
+}
 
 /* ============================================================
    IMPORTANT DATES

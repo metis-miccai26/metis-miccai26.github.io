@@ -26,8 +26,9 @@ The first edition is a 4.5-hour workshop at MICCAI 2026 in Strasbourg, France, o
 "Metis" is the ancient Greek goddess of wisdom, practical intelligence, and strategic thinking — symbolising the translation of MICCAI methods into the clinic.
 
 ## Call for Proposals & Matchmaking
-The programme supports clinical practitioners and computational researchers. Clinicians can submit a 1-page proposal and a short CV via the Clinician EoI Form to be paired with AI researchers.
-- Submission Form Link: https://forms.gle/kquChVyXuQWNpMJ28
+The programme supports clinical practitioners and computational researchers. Clinicians can download the MÉTIS Proposal Template (assets/METISProposalTemplate.docx) to prepare their 1-page proposal, and submit it along with their CV via our OpenReview submission page.
+- Submission Link: https://openreview.net/group?id=MICCAI.org/2026/Workshop/METIS
+- Proposal Template: assets/METISProposalTemplate.docx
 - The first edition is a non-publishing track focused purely on building active collaborations and study mentorship.
 
 ## Important Dates
