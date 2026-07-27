@@ -21,7 +21,7 @@
 ## About the MÉTIS Programme
 MÉTIS (Multidisciplinary Evaluation and Translation in Imaging and CAI Science) is an educational and mentoring initiative designed to bridge the gap between innovation in medical imaging AI and computer-assisted intervention (CAI) and their successful translation into clinical practice. 
 
-The first edition is a 2-hour workshop at MICCAI 2026 in Strasbourg, France, on September 27, 2026.
+The first edition is a 4.5-hour workshop at MICCAI 2026 in Strasbourg, France, on September 27, 2026.
 
 "Metis" is the ancient Greek goddess of wisdom, practical intelligence, and strategic thinking — symbolising the translation of MICCAI methods into the clinic.
 
@@ -36,11 +36,13 @@ The programme supports clinical practitioners and computational researchers. Cli
 - Workshop Date: September 27, 2026 (Room Madrid 1 (G), Strasbourg, France).
 - Note: All workshop deadlines are Anytime on Earth (AoE).
 
-## Workshop Program (2-Hour Timeline)
+## Workshop Program (4.5-Hour Timeline)
 - 13:30 - 13:40 (10 mins): Welcome & Introduction to the MÉTIS Workshop
-- 13:40 - 14:00 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Tessa S Cook (Radiology & Imaging Informatics - University of Pennsylvania)
-- 14:00 - 15:15 (75 mins): Presentations & Round Table Discussions (combining accepted paper presentations via videos/posters and structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
-- 15:15 - 15:30 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
+- 13:40 - 14:00 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap (Speaker: TBD)
+- 14:00 - 15:30 (90 mins): Invited Talks
+- 15:30 - 16:00 (30 mins): Coffee Break & Poster Display
+- 16:00 - 17:45 (105 mins): Roundtable Discussions & Brainstorm (structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
+- 17:45 - 18:00 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
 Note: The exact times are based on the tentative afternoon slot allocation (Room Madrid 1 (G)) and will adjust according to final MICCAI scheduling.
 
 ## Sponsors & Partners
