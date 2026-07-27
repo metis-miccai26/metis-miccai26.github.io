@@ -56,6 +56,8 @@ Note: The exact times are based on the tentative afternoon slot allocation (Room
 - Gilberto Ochoa Ruiz — Tecnológico de Monterrey, Mexico
 - Sharib Ali — University of Leeds, UK
 - Bülent Yılmaz — GUST, Kuwait
+- Dr. Alin Navas — University College Dublin, Ireland
+- Aon Safdar — University College Dublin, Ireland
 
 ## Contact
 - Mohamed Saadeldin: mohamed.saadeldin@ucd.ie
