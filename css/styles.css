@@ -893,6 +893,99 @@ ul { list-style: none; }
   box-shadow: 0 4px 15px rgba(232,122,46,.2);
 }
 
+/* Clinical Matchmaking Resources Sub-section */
+.clinical-resources {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(27, 58, 92, 0.08);
+}
+.clinical-resources h4 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--color-primary-dark);
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.resources-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 992px) {
+  .resources-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .resources-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.resource-card-item {
+  display: flex;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: var(--blue-50);
+  border: 1px solid var(--blue-100);
+  border-radius: var(--radius-sm);
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+.resource-card-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(27,58,92,0.06);
+}
+.resource-card-icon {
+  flex-shrink: 0;
+  color: var(--color-accent);
+  display: flex;
+  align-items: flex-start;
+  padding-top: 0.2rem;
+}
+.resource-card-content {
+  flex-grow: 1;
+}
+.resource-card-content h5 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--color-primary-dark);
+  margin-bottom: 0.35rem;
+}
+.resource-card-content p {
+  font-size: 0.8rem;
+  color: var(--gray-600);
+  line-height: 1.4;
+  margin-bottom: 0.75rem;
+}
+.resource-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.resource-link-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: var(--white);
+  border: 1px solid var(--gray-300);
+  color: var(--gray-700);
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all var(--transition);
+}
+.resource-link-btn:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background: rgba(232, 122, 46, 0.04);
+}
+
 /* ============================================================
    IMPORTANT DATES
    ============================================================ */
