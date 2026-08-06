@@ -36,17 +36,17 @@ The programme supports clinical practitioners and computational researchers. Cli
 ## Important Dates
 - Proposal Submission Deadline: August 16, 2026 (AoE).
 - Matchmaking & Selection Notification: August 31, 2026 (AoE).
-- Workshop Date: September 27, 2026 (Room Madrid 1 (G), Strasbourg, France).
+- Workshop Date: September 27, 2026 (Room Churchill (U), Strasbourg, France).
 - Note: All workshop deadlines are Anytime on Earth (AoE).
 
 ## Workshop Program (4.5-Hour Timeline)
-- 13:30 - 13:40 (10 mins): Welcome & Introduction to the MÉTIS Workshop
-- 13:40 - 14:00 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap (Speaker: TBD)
-- 14:00 - 15:30 (90 mins): Invited Talks
-- 15:30 - 16:00 (30 mins): Coffee Break & Poster Display
-- 16:00 - 17:45 (105 mins): Roundtable Discussions & Brainstorm (structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
-- 17:45 - 18:00 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
-Note: The exact times are based on the tentative afternoon slot allocation (Room Madrid 1 (G)) and will adjust according to final MICCAI scheduling.
+- 08:00 - 08:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
+- 08:10 - 08:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap (Speaker: TBD)
+- 08:30 - 10:00 (90 mins): Invited Talks
+- 10:00 - 10:30 (30 mins): Coffee Break & Poster Display
+- 10:30 - 12:15 (105 mins): Roundtable Discussions & Brainstorm (structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
+- 12:15 - 12:30 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
+Note: The exact times are based on the morning slot allocation (Room Churchill (U)) and will adjust according to final MICCAI scheduling.
 
 ## Sponsors & Partners
 - University College Dublin (UCD)
