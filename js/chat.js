@@ -27,7 +27,7 @@ The first edition is a 4.5-hour workshop at MICCAI 2026 in Strasbourg, France, o
 
 ## Call for Proposals & Matchmaking
 The programme supports clinical practitioners and computational researchers. Clinicians can download proposal templates in Word (assets/METIS_Proposal_Template.docx?v=3) or LaTeX (assets/METIS_Latex_Proposal_Template.zip) format to prepare their 1-page proposal, and submit it along with their CV via our OpenReview submission portal.
-- Submission Link: https://openreview.net/forum?id=wrRUpBb7yu
+- Submission Link: https://openreview.net/group?id=MICCAI.org/2026/Workshop/METIS
 - Proposal Templates: assets/METIS_Proposal_Template.docx?v=3 (Word) and assets/METIS_Latex_Proposal_Template.zip (LaTeX)
 - Roundtable Questions: assets/Questions_for_roundtable.docx (guidelines for the interactive discussions)
 - Clinical Use Cases & Datasets: assets/Clinical_usecases_and_Datasets.docx (reference document of curated bottlenecks and datasets)
