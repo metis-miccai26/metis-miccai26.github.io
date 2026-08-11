@@ -1159,6 +1159,107 @@ ul { list-style: none; }
   text-align: justify;
   margin: 0;
 }
+
+/* --- KEYNOTE SPEAKER FEATURE --- */
+.keynote-speaker-card {
+  max-width: 850px;
+  margin: 0 auto 3.5rem auto;
+  padding: 2rem;
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-md);
+  box-shadow: 0 4px 20px rgba(27,58,92,.05);
+  display: flex;
+  flex-direction: column;
+}
+.keynote-header {
+  margin-bottom: 1.25rem;
+}
+.keynote-badge {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(30, 144, 255, 0.1);
+  color: var(--color-accent);
+  padding: 0.35rem 0.85rem;
+  border-radius: 50px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.keynote-body {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.keynote-photo-wrapper {
+  flex-shrink: 0;
+  width: 150px;
+  height: 150px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  border: 3px solid var(--white);
+  outline: 1px solid var(--gray-200);
+}
+.keynote-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.keynote-content {
+  flex-grow: 1;
+}
+.keynote-content h3 {
+  margin: 0 0 0.35rem 0;
+  font-size: 1.6rem;
+  color: var(--color-primary);
+  font-weight: 700;
+  font-family: var(--font-heading);
+}
+.keynote-affiliation {
+  margin: 0 0 1.25rem 0;
+  color: var(--color-accent);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+.keynote-bio {
+  margin: 0 0 1.5rem 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--gray-500);
+}
+.keynote-talk-box {
+  background: var(--blue-50, #F0F5FA);
+  padding: 1.25rem;
+  border-radius: var(--radius-md);
+  border-left: 4px solid var(--color-accent);
+}
+.keynote-talk-title {
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+  font-family: var(--font-heading);
+}
+.keynote-talk-desc {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--gray-500);
+}
+
+@media (max-width: 768px) {
+  .keynote-body {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+  }
+  .keynote-talk-box {
+    text-align: left;
+  }
+}
 .program-time {
   font-family: var(--font-heading);
   font-weight: 700;

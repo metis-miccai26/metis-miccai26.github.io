@@ -41,8 +41,8 @@ The programme supports clinical practitioners and computational researchers. Cli
 
 ## Workshop Program (4.5-Hour Timeline)
 - 08:00 - 08:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
-- 08:10 - 08:30 (20 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap (Speaker: TBD)
-- 08:30 - 10:00 (90 mins): Invited Talks
+- 08:10 - 08:40 (30 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Dr. Mariam S. Aboian (Yale School of Medicine / Children's Hospital of Philadelphia)
+- 08:40 - 10:00 (80 mins): Invited Talks
 - 10:00 - 10:30 (30 mins): Coffee Break & Poster Display
 - 10:30 - 12:15 (105 mins): Roundtable Discussions & Brainstorm (structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
 - 12:15 - 12:30 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
