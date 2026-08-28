@@ -43,7 +43,7 @@ The programme supports clinical practitioners and computational researchers. Cli
 - 08:00 - 08:10 (10 mins): Welcome & Introduction to the MÉTIS Workshop
 - 08:10 - 10:00 (110 mins): Oral Presentations of Accepted Proposals and Q&A
 - 10:00 - 10:30 (30 mins): Coffee Break & Poster Session
-- 10:30 - 11:15 (45 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Dr. Mariam S. Aboian (CHOP / University of Pennsylvania)
+- 10:30 - 11:15 (45 mins): Keynote presentation on Translational Readiness and the Clinical–AI Gap by Dr. Mariam S. Aboian (Children's Hospital of Philadelphia / University of Pennsylvania)
 - 11:15 - 12:15 (60 mins): Roundtable Discussions & Brainstorm (structured round tables in Surgical/Robotics, Cardiac, Breast, Neuro, Computational Pathology)
 - 12:15 - 12:30 (15 mins): Concluding Remarks & Group Formation (finalizing the transition of round tables into the year-long mentorship program)
 Note: The exact times are based on the morning slot allocation (Room Churchill (U)) and will adjust according to final MICCAI scheduling.
