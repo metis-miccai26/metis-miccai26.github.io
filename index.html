@@ -11,7 +11,7 @@
   <meta property="og:image" content="assets/metis.jpg">
   <meta property="og:type" content="website">
   <link rel="icon" href="assets/metis-logo.jpg" type="image/jpeg">
-  <link rel="stylesheet" href="css/styles.css?v=41">
+  <link rel="stylesheet" href="css/styles.css?v=42">
 </head>
 <body>
 
@@ -387,7 +387,7 @@
           <div class="program-icon-wrapper">
             <svg class="program-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
           </div>
-          <div>
+          <div class="program-item-content">
             <div class="program-time">08:00 - 08:10 <span class="duration-badge">10 mins</span></div>
             <h4>Welcome &amp; Introduction to the MÉTIS Workshop</h4>
             <p>Introduction to the workshop objectives, organizers, and timeline.</p>
@@ -492,7 +492,7 @@
               </div>
 
               <!-- Proposal 7 -->
-              <div class="oral-card">
+              <div class="oral-card oral-card--full-width">
                 <div class="oral-card-header">
                   <span class="oral-specialty-badge">Breast Surgery</span>
                 </div>
@@ -544,58 +544,64 @@
               <!-- Group 1: Neuro -->
               <div class="roundtable-group-card">
                 <div class="roundtable-group-header">
-                  <div class="roundtable-group-title">
-                    <span class="group-num">Group 1</span> Neuro
+                  <div class="group-header-top">
+                    <span class="group-pill">GROUP 1</span>
+                    <span class="roundtable-chair-badge">Chair: <strong>Dr. Mariam S. Aboian</strong> (Keynote)</span>
                   </div>
-                  <span class="roundtable-chair-badge">Chair: <strong>Dr. Mariam S. Aboian</strong> (Keynote)</span>
+                  <h5 class="roundtable-group-title">Neuro &amp; Brain Imaging</h5>
                 </div>
                 <ul class="roundtable-projects-list">
-                  <li><strong>Glioblastoma Radiotherapy Targets:</strong> Uncertainty-guided CTV delineation (M. Astaraki)</li>
-                  <li><strong>Amyloid from MRI:</strong> Non-invasive MRI-only assessment (F. Chiumento)</li>
-                  <li><strong>Paediatric EEG:</strong> Generalizable biomarkers for ASD / ADHD (F. E. Bazay)</li>
+                  <li><strong>Glioblastoma Radiotherapy Targets:</strong> Uncertainty-guided CTV delineation in clinical planning (M. Astaraki)</li>
+                  <li><strong>Amyloid from MRI:</strong> Non-invasive MRI-only neurodegeneration assessment (F. Chiumento)</li>
+                  <li><strong>Paediatric EEG:</strong> Generalizable biomarkers for ASD / ADHD diagnosis (F. E. Bazay)</li>
                 </ul>
               </div>
 
               <!-- Group 2: Breast & Pathology -->
               <div class="roundtable-group-card">
                 <div class="roundtable-group-header">
-                  <div class="roundtable-group-title">
-                    <span class="group-num">Group 2</span> Breast &amp; Pathology
+                  <div class="group-header-top">
+                    <span class="group-pill">GROUP 2</span>
+                    <span class="roundtable-chair-badge">Facilitator: <strong>MÉTIS Committee</strong></span>
                   </div>
-                  <span class="roundtable-chair-badge">Facilitator: <strong>MÉTIS Committee</strong></span>
+                  <h5 class="roundtable-group-title">Breast &amp; Computational Pathology</h5>
                 </div>
                 <ul class="roundtable-projects-list">
-                  <li><strong>Breast Surgery Planning:</strong> Post-op morphology prediction (A. Soares)</li>
-                  <li><strong>Tissue-Based Risk:</strong> Breast cancer risk stratification (S. Kachole)</li>
-                  <li><strong>IHC Grading:</strong> Label-free histology grading across hospitals (J. Lee)</li>
+                  <li><strong>Breast Surgery Planning:</strong> Post-op morphology prediction via deep learning (A. Soares)</li>
+                  <li><strong>Tissue-Based Risk:</strong> Multi-scale breast cancer recurrence stratification (S. Kachole)</li>
+                  <li><strong>IHC Grading:</strong> Label-free histology grading and cross-hospital harmonization (J. Lee)</li>
                 </ul>
               </div>
 
               <!-- Group 3: Global Health -->
               <div class="roundtable-group-card">
                 <div class="roundtable-group-header">
-                  <div class="roundtable-group-title">
-                    <span class="group-num">Group 3</span> Global Health
+                  <div class="group-header-top">
+                    <span class="group-pill">GROUP 3</span>
+                    <span class="roundtable-chair-badge">Facilitator: <strong>MÉTIS Committee</strong></span>
                   </div>
-                  <span class="roundtable-chair-badge">Facilitator: <strong>MÉTIS Committee</strong></span>
+                  <h5 class="roundtable-group-title">Global Health &amp; Frontline AI</h5>
                 </div>
                 <ul class="roundtable-projects-list">
                   <li><strong>Cervical Precancer Triage:</strong> Low-resource point-of-care screening (SRHIN &middot; <em>Sponsored by RISE-MICCAI</em>)</li>
-                  <li><strong>Edge &amp; Offline AI:</strong> Clinical decision support for frontline health workers and portable imaging devices</li>
+                  <li><strong>Edge &amp; Offline AI:</strong> Clinical decision support for frontline workers on portable imaging devices</li>
+                  <li><strong>Low-Resource Clinical Translation:</strong> Overcoming deployment barriers, compute constraints, and multi-site validation</li>
                 </ul>
               </div>
 
               <!-- Group 4: Open Group -->
               <div class="roundtable-group-card">
                 <div class="roundtable-group-header">
-                  <div class="roundtable-group-title">
-                    <span class="group-num">Group 4</span> Open Group &amp; Future Calls
+                  <div class="group-header-top">
+                    <span class="group-pill">GROUP 4</span>
+                    <span class="roundtable-chair-badge">Facilitator: <strong>MÉTIS Committee</strong></span>
                   </div>
-                  <span class="roundtable-chair-badge">Facilitator: <strong>MÉTIS Committee</strong></span>
+                  <h5 class="roundtable-group-title">Open Group: Robotics &amp; Future Calls</h5>
                 </div>
                 <ul class="roundtable-projects-list">
-                  <li><strong>Bring Your Own Clinical Question:</strong> Surgical interventions, robotics, cardiac imaging, and emerging clinical priorities</li>
-                  <li><strong>Incubate New Proposals:</strong> Test clinical questions against the 5-point checklist to seed submissions for future MÉTIS calls</li>
+                  <li><strong>Surgical Robotics &amp; CAI:</strong> Computer-assisted interventions, cardiac imaging, and emerging modalities</li>
+                  <li><strong>5-Point Checklist Pitching:</strong> Stress-test novel clinical AI ideas with interdisciplinary feedback</li>
+                  <li><strong>Incubate Future Proposals:</strong> Seed new cross-continental teams for MICCAI 2027 and future MÉTIS rounds</li>
                 </ul>
               </div>
             </div>
