@@ -54,30 +54,22 @@ The programme pairs clinicians who have diagnostic questions or dataset bottlene
 3. Neuroradiology: MRI-only amyloid-β assessment — F. Chiumento (Dublin City Univ., Ireland)
 4. Computational Pathology: Tissue-based breast cancer risk stratification — S. Kachole (Indiana Univ., USA)
 5. Pathology: Label-free IHC grading across hospitals — J. Lee (Univ. of Rochester, USA)
-6. Gynaecological Oncology: Device-agnostic cervical precancer triage — E. A. Oladejo (SRHIN, Ibadan, Nigeria) — Sponsored by RISE-MICCAI
+6. Gynaecological Oncology: Device-agnostic cervical precancer triage — SRHIN, Ibadan (Nigeria) — Sponsored by RISE-MICCAI
 7. Breast Surgery: MATRIX: post-op breast morphology prediction — A. Soares (Univ. de Lisboa / IPO, Portugal)
 
 ## Four Matchmaking Working Groups (11:15–12:15)
 - Group 1 (Neuro): Chaired by keynote Dr. Mariam S. Aboian. Covers GBM radiotherapy targets (M. Astaraki), Amyloid from MRI (F. Chiumento), Paediatric EEG (F. E. Bazay).
 - Group 2 (Breast & Pathology): Covers breast surgery planning (A. Soares), tissue-based risk (S. Kachole), IHC grading (J. Lee).
-- Group 3 (Global Health): Covers cervical precancer triage in low-resource screening (E. A. Oladejo, sponsored by RISE-MICCAI), edge and offline AI for frontline workers.
+- Group 3 (Global Health): Covers cervical precancer triage in low-resource screening (SRHIN, sponsored by RISE-MICCAI), edge and offline AI for frontline workers.
 - Group 4 (Open Group): For attendees bringing new clinical questions (surgical/robotics, cardiac, etc.) to seed proposals for future MÉTIS calls.
 
-## Post-Workshop Mentoring Roadmap to MICCAI 2027 (Auckland)
-MÉTIS is a year-long mentoring pathway leading to MICCAI 2027 in Auckland, New Zealand:
-- Sep 2026 (MICCAI Strasbourg): Accepted teams join the mentoring pathway with clinical, computational, and industry mentors.
-- 3–6 Oct 2026: CAP 2026 (Las Vegas) touchpoint for pathology teams.
-- Nov 2026: Monthly mentoring begins with progress meetings led by co-chairs K. Curran & S. Bakas.
-- 29 Nov – 3 Dec 2026: RSNA 2026 (Chicago) check-in & multi-site validation planning.
-- Jan–Apr 2027: Core mentoring & multi-site validation manuscript development.
-- Apr–Jul 2027: ASNR / ASFNR interim review and presentations.
-- Jul–Aug 2027: MIUA 2027 final pre-submission review and polishing.
-- Sep 2027: MICCAI 2027 (Auckland) paper submissions in a mentored finalist/award track. Mature projects seed MICCAI Lighthouse challenges.
+## Post-Workshop Mentoring Pathway to MICCAI 2027 (Auckland)
+Accepted teams participate in a year-long mentoring pathway leading toward future MICCAI 2027 submissions in Auckland, New Zealand. Note: The workshop does NOT publish proceedings (it is strictly a non-publishing collaborative and mentoring initiative).
 
 ## Sponsors & Partners
 - Supported By: University College Dublin (UCD) and Research Ireland
-- Candidate Sponsor: RISE-MICCAI (Special sponsor for candidate E. A. Oladejo)
-- Society & Scientific Partners: MIUA 2026, ASNR / ASFNR AI Workshop, MICCAI Society Board (Career Development Working Group & Student Board), Springer LNCS.
+- Candidate Sponsor: RISE-MICCAI (Candidate travel & registration sponsor)
+- Society & Scientific Partners: MIUA 2026, ASNR / ASFNR AI Workshop, MICCAI Society Board (Career Development Working Group & Student Board).
 
 ## Organizing Committee
 - Kathleen Curran (Co-Chair) — University College Dublin, Ireland
