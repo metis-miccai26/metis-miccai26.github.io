@@ -1,6 +1,6 @@
 # MÉTIS Workshop — MICCAI 2026
 
-**Multidisciplinary Evaluation & Translation in Imaging & CAI Science**
+**Multidisciplinary Evaluation & Translation in Imaging & Surgery**
 
 *Linking Clinical & Computational Communities for the Next Generation of Medical Imaging AI*
 
